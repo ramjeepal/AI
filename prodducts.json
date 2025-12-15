@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "MOB-001",
+    "brand": "RG Labs",
+    "model": "Budget Phone 1 RG",
+    "category": "Smartphone",
+    "price_inr": 8000,
+    "price_usd": 99,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-1-rg"
+  },
+  {
+    "id": "MOB-002",
+    "brand": "RG Labs",
+    "model": "Budget Phone 2 RG",
+    "category": "Smartphone",
+    "price_inr": 11000,
+    "price_usd": 129,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-2-rg"
+  },
+  {
+    "id": "MOB-003",
+    "brand": "RG Labs",
+    "model": "Budget Phone 3 RG",
+    "category": "Smartphone",
+    "price_inr": 14000,
+    "price_usd": 159,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-3-rg"
+  },
+  {
+    "id": "MOB-004",
+    "brand": "RG Labs",
+    "model": "Budget Phone 4 RG",
+    "category": "Smartphone",
+    "price_inr": 17000,
+    "price_usd": 189,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-4-rg"
+  },
+  {
+    "id": "MOB-005",
+    "brand": "RG Labs",
+    "model": "Budget Phone 5 RG",
+    "category": "Smartphone",
+    "price_inr": 20000,
+    "price_usd": 219,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-5-rg"
+  },
+  {
+    "id": "MOB-006",
+    "brand": "RG Labs",
+    "model": "Budget Phone 6 RG",
+    "category": "Smartphone",
+    "price_inr": 23000,
+    "price_usd": 249,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-6-rg"
+  },
+  {
+    "id": "MOB-007",
+    "brand": "RG Labs",
+    "model": "Budget Phone 7 RG",
+    "category": "Smartphone",
+    "price_inr": 26000,
+    "price_usd": 279,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-7-rg"
+  },
+  {
+    "id": "MOB-008",
+    "brand": "RG Labs",
+    "model": "Budget Phone 8 RG",
+    "category": "Smartphone",
+    "price_inr": 29000,
+    "price_usd": 309,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-8-rg"
+  },
+  {
+    "id": "MOB-009",
+    "brand": "RG Labs",
+    "model": "Budget Phone 9 RG",
+    "category": "Smartphone",
+    "price_inr": 32000,
+    "price_usd": 339,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-9-rg"
+  },
+  {
+    "id": "MOB-010",
+    "brand": "RG Labs",
+    "model": "Budget Phone 10 RG",
+    "category": "Smartphone",
+    "price_inr": 35000,
+    "price_usd": 369,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-10-rg"
+  },
+  {
+    "id": "MOB-011",
+    "brand": "RG Labs",
+    "model": "Budget Phone 11 RG",
+    "category": "Smartphone",
+    "price_inr": 38000,
+    "price_usd": 399,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-11-rg"
+  },
+  {
+    "id": "MOB-012",
+    "brand": "RG Labs",
+    "model": "Budget Phone 12 RG",
+    "category": "Smartphone",
+    "price_inr": 41000,
+    "price_usd": 429,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-12-rg"
+  },
+  {
+    "id": "MOB-013",
+    "brand": "RG Labs",
+    "model": "Budget Phone 13 RG",
+    "category": "Smartphone",
+    "price_inr": 44000,
+    "price_usd": 459,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-13-rg"
+  },
+  {
+    "id": "MOB-014",
+    "brand": "RG Labs",
+    "model": "Budget Phone 14 RG",
+    "category": "Smartphone",
+    "price_inr": 47000,
+    "price_usd": 489,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-14-rg"
+  },
+  {
+    "id": "MOB-015",
+    "brand": "RG Labs",
+    "model": "Budget Phone 15 RG",
+    "category": "Smartphone",
+    "price_inr": 50000,
+    "price_usd": 519,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-15-rg"
+  },
+  {
+    "id": "MOB-016",
+    "brand": "RG Labs",
+    "model": "Budget Phone 16 RG",
+    "category": "Smartphone",
+    "price_inr": 53000,
+    "price_usd": 549,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-16-rg"
+  },
+  {
+    "id": "MOB-017",
+    "brand": "RG Labs",
+    "model": "Budget Phone 17 RG",
+    "category": "Smartphone",
+    "price_inr": 56000,
+    "price_usd": 579,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-17-rg"
+  },
+  {
+    "id": "MOB-018",
+    "brand": "RG Labs",
+    "model": "Budget Phone 18 RG",
+    "category": "Smartphone",
+    "price_inr": 59000,
+    "price_usd": 609,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-18-rg"
+  },
+  {
+    "id": "MOB-019",
+    "brand": "RG Labs",
+    "model": "Budget Phone 19 RG",
+    "category": "Smartphone",
+    "price_inr": 62000,
+    "price_usd": 639,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-19-rg"
+  },
+  {
+    "id": "MOB-020",
+    "brand": "RG Labs",
+    "model": "Budget Phone 20 RG",
+    "category": "Smartphone",
+    "price_inr": 65000,
+    "price_usd": 669,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-20-rg"
+  },
+  {
+    "id": "MOB-021",
+    "brand": "RG Labs",
+    "model": "Budget Phone 21 RG",
+    "category": "Smartphone",
+    "price_inr": 68000,
+    "price_usd": 699,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-21-rg"
+  },
+  {
+    "id": "MOB-022",
+    "brand": "RG Labs",
+    "model": "Budget Phone 22 RG",
+    "category": "Smartphone",
+    "price_inr": 71000,
+    "price_usd": 729,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-22-rg"
+  },
+  {
+    "id": "MOB-023",
+    "brand": "RG Labs",
+    "model": "Budget Phone 23 RG",
+    "category": "Smartphone",
+    "price_inr": 74000,
+    "price_usd": 759,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-23-rg"
+  },
+  {
+    "id": "MOB-024",
+    "brand": "RG Labs",
+    "model": "Budget Phone 24 RG",
+    "category": "Smartphone",
+    "price_inr": 77000,
+    "price_usd": 789,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-24-rg"
+  },
+  {
+    "id": "MOB-025",
+    "brand": "RG Labs",
+    "model": "Budget Phone 25 RG",
+    "category": "Smartphone",
+    "price_inr": 80000,
+    "price_usd": 819,
+    "image_url": "https://i.ibb.co/PdZfYRf/apple-iphone-11-2019.jpg",
+    "specs": {
+      "display": "6.5 HD+",
+      "processor": "Budget SoC",
+      "ram": "4GB",
+      "camera": "48MP",
+      "battery": "5000mAh"
+    },
+    "buy_url": "https://example.com/buy/budget-phone-25-rg"
+  },
+  {
+    "id": "LAP-001",
+    "brand": "RG Labs",
+    "model": "Student Laptop 1 RG",
+    "category": "Laptop",
+    "price_inr": 10000,
+    "price_usd": 119,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-1-rg"
+  },
+  {
+    "id": "LAP-002",
+    "brand": "RG Labs",
+    "model": "Student Laptop 2 RG",
+    "category": "Laptop",
+    "price_inr": 17000,
+    "price_usd": 199,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-2-rg"
+  },
+  {
+    "id": "LAP-003",
+    "brand": "RG Labs",
+    "model": "Student Laptop 3 RG",
+    "category": "Laptop",
+    "price_inr": 24000,
+    "price_usd": 279,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-3-rg"
+  },
+  {
+    "id": "LAP-004",
+    "brand": "RG Labs",
+    "model": "Student Laptop 4 RG",
+    "category": "Laptop",
+    "price_inr": 31000,
+    "price_usd": 359,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-4-rg"
+  },
+  {
+    "id": "LAP-005",
+    "brand": "RG Labs",
+    "model": "Student Laptop 5 RG",
+    "category": "Laptop",
+    "price_inr": 38000,
+    "price_usd": 439,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-5-rg"
+  },
+  {
+    "id": "LAP-006",
+    "brand": "RG Labs",
+    "model": "Student Laptop 6 RG",
+    "category": "Laptop",
+    "price_inr": 45000,
+    "price_usd": 519,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-6-rg"
+  },
+  {
+    "id": "LAP-007",
+    "brand": "RG Labs",
+    "model": "Student Laptop 7 RG",
+    "category": "Laptop",
+    "price_inr": 52000,
+    "price_usd": 599,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-7-rg"
+  },
+  {
+    "id": "LAP-008",
+    "brand": "RG Labs",
+    "model": "Student Laptop 8 RG",
+    "category": "Laptop",
+    "price_inr": 59000,
+    "price_usd": 679,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-8-rg"
+  },
+  {
+    "id": "LAP-009",
+    "brand": "RG Labs",
+    "model": "Student Laptop 9 RG",
+    "category": "Laptop",
+    "price_inr": 66000,
+    "price_usd": 759,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-9-rg"
+  },
+  {
+    "id": "LAP-010",
+    "brand": "RG Labs",
+    "model": "Student Laptop 10 RG",
+    "category": "Laptop",
+    "price_inr": 73000,
+    "price_usd": 839,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-10-rg"
+  },
+  {
+    "id": "LAP-011",
+    "brand": "RG Labs",
+    "model": "Student Laptop 11 RG",
+    "category": "Laptop",
+    "price_inr": 80000,
+    "price_usd": 919,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-11-rg"
+  },
+  {
+    "id": "LAP-012",
+    "brand": "RG Labs",
+    "model": "Student Laptop 12 RG",
+    "category": "Laptop",
+    "price_inr": 87000,
+    "price_usd": 999,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-12-rg"
+  },
+  {
+    "id": "LAP-013",
+    "brand": "RG Labs",
+    "model": "Student Laptop 13 RG",
+    "category": "Laptop",
+    "price_inr": 94000,
+    "price_usd": 1079,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-13-rg"
+  },
+  {
+    "id": "LAP-014",
+    "brand": "RG Labs",
+    "model": "Student Laptop 14 RG",
+    "category": "Laptop",
+    "price_inr": 101000,
+    "price_usd": 1159,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-14-rg"
+  },
+  {
+    "id": "LAP-015",
+    "brand": "RG Labs",
+    "model": "Student Laptop 15 RG",
+    "category": "Laptop",
+    "price_inr": 108000,
+    "price_usd": 1239,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-15-rg"
+  },
+  {
+    "id": "LAP-016",
+    "brand": "RG Labs",
+    "model": "Student Laptop 16 RG",
+    "category": "Laptop",
+    "price_inr": 115000,
+    "price_usd": 1319,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-16-rg"
+  },
+  {
+    "id": "LAP-017",
+    "brand": "RG Labs",
+    "model": "Student Laptop 17 RG",
+    "category": "Laptop",
+    "price_inr": 122000,
+    "price_usd": 1399,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-17-rg"
+  },
+  {
+    "id": "LAP-018",
+    "brand": "RG Labs",
+    "model": "Student Laptop 18 RG",
+    "category": "Laptop",
+    "price_inr": 129000,
+    "price_usd": 1479,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-18-rg"
+  },
+  {
+    "id": "LAP-019",
+    "brand": "RG Labs",
+    "model": "Student Laptop 19 RG",
+    "category": "Laptop",
+    "price_inr": 136000,
+    "price_usd": 1559,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-19-rg"
+  },
+  {
+    "id": "LAP-020",
+    "brand": "RG Labs",
+    "model": "Student Laptop 20 RG",
+    "category": "Laptop",
+    "price_inr": 143000,
+    "price_usd": 1639,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-20-rg"
+  },
+  {
+    "id": "LAP-021",
+    "brand": "RG Labs",
+    "model": "Student Laptop 21 RG",
+    "category": "Laptop",
+    "price_inr": 150000,
+    "price_usd": 1719,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-21-rg"
+  },
+  {
+    "id": "LAP-022",
+    "brand": "RG Labs",
+    "model": "Student Laptop 22 RG",
+    "category": "Laptop",
+    "price_inr": 157000,
+    "price_usd": 1799,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-22-rg"
+  },
+  {
+    "id": "LAP-023",
+    "brand": "RG Labs",
+    "model": "Student Laptop 23 RG",
+    "category": "Laptop",
+    "price_inr": 164000,
+    "price_usd": 1879,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-23-rg"
+  },
+  {
+    "id": "LAP-024",
+    "brand": "RG Labs",
+    "model": "Student Laptop 24 RG",
+    "category": "Laptop",
+    "price_inr": 171000,
+    "price_usd": 1959,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-24-rg"
+  },
+  {
+    "id": "LAP-025",
+    "brand": "RG Labs",
+    "model": "Student Laptop 25 RG",
+    "category": "Laptop",
+    "price_inr": 178000,
+    "price_usd": 2039,
+    "image_url": "https://i.ibb.co/ymF0ZKPD/pjimage-2021-10-13-T134216-401-16341129144x3",
+    "specs": {
+      "processor": "Entry CPU",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "gpu": "Integrated",
+      "screen_size": "14 inch"
+    },
+    "buy_url": "https://example.com/buy/student-laptop-25-rg"
+  },
+  {
+    "id": "TV-001",
+    "brand": "RG Labs",
+    "model": "Smart TV 1 RG",
+    "category": "TV",
+    "price_inr": 12000,
+    "price_usd": 159,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-1-rg"
+  },
+  {
+    "id": "TV-002",
+    "brand": "RG Labs",
+    "model": "Smart TV 2 RG",
+    "category": "TV",
+    "price_inr": 32000,
+    "price_usd": 359,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-2-rg"
+  },
+  {
+    "id": "TV-003",
+    "brand": "RG Labs",
+    "model": "Smart TV 3 RG",
+    "category": "TV",
+    "price_inr": 52000,
+    "price_usd": 559,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-3-rg"
+  },
+  {
+    "id": "TV-004",
+    "brand": "RG Labs",
+    "model": "Smart TV 4 RG",
+    "category": "TV",
+    "price_inr": 72000,
+    "price_usd": 759,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-4-rg"
+  },
+  {
+    "id": "TV-005",
+    "brand": "RG Labs",
+    "model": "Smart TV 5 RG",
+    "category": "TV",
+    "price_inr": 92000,
+    "price_usd": 959,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-5-rg"
+  },
+  {
+    "id": "TV-006",
+    "brand": "RG Labs",
+    "model": "Smart TV 6 RG",
+    "category": "TV",
+    "price_inr": 112000,
+    "price_usd": 1159,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-6-rg"
+  },
+  {
+    "id": "TV-007",
+    "brand": "RG Labs",
+    "model": "Smart TV 7 RG",
+    "category": "TV",
+    "price_inr": 132000,
+    "price_usd": 1359,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-7-rg"
+  },
+  {
+    "id": "TV-008",
+    "brand": "RG Labs",
+    "model": "Smart TV 8 RG",
+    "category": "TV",
+    "price_inr": 152000,
+    "price_usd": 1559,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-8-rg"
+  },
+  {
+    "id": "TV-009",
+    "brand": "RG Labs",
+    "model": "Smart TV 9 RG",
+    "category": "TV",
+    "price_inr": 172000,
+    "price_usd": 1759,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-9-rg"
+  },
+  {
+    "id": "TV-010",
+    "brand": "RG Labs",
+    "model": "Smart TV 10 RG",
+    "category": "TV",
+    "price_inr": 192000,
+    "price_usd": 1959,
+    "image_url": "https://i.ibb.co/Q7DK8Smb/LED-SFFV4335-1024x1024.",
+    "specs": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "panel_type": "LED",
+      "sound_output": "20W"
+    },
+    "buy_url": "https://example.com/buy/smart-tv-10-rg"
+  },
+  {
+    "id": "AUD-001",
+    "brand": "RG Labs",
+    "model": "Audio Device 1 RG",
+    "category": "Audio",
+    "price_inr": 800,
+    "price_usd": 15,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-1-rg"
+  },
+  {
+    "id": "AUD-002",
+    "brand": "RG Labs",
+    "model": "Audio Device 2 RG",
+    "category": "Audio",
+    "price_inr": 3800,
+    "price_usd": 45,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-2-rg"
+  },
+  {
+    "id": "AUD-003",
+    "brand": "RG Labs",
+    "model": "Audio Device 3 RG",
+    "category": "Audio",
+    "price_inr": 6800,
+    "price_usd": 75,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-3-rg"
+  },
+  {
+    "id": "AUD-004",
+    "brand": "RG Labs",
+    "model": "Audio Device 4 RG",
+    "category": "Audio",
+    "price_inr": 9800,
+    "price_usd": 105,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-4-rg"
+  },
+  {
+    "id": "AUD-005",
+    "brand": "RG Labs",
+    "model": "Audio Device 5 RG",
+    "category": "Audio",
+    "price_inr": 12800,
+    "price_usd": 135,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-5-rg"
+  },
+  {
+    "id": "AUD-006",
+    "brand": "RG Labs",
+    "model": "Audio Device 6 RG",
+    "category": "Audio",
+    "price_inr": 15800,
+    "price_usd": 165,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-6-rg"
+  },
+  {
+    "id": "AUD-007",
+    "brand": "RG Labs",
+    "model": "Audio Device 7 RG",
+    "category": "Audio",
+    "price_inr": 18800,
+    "price_usd": 195,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-7-rg"
+  },
+  {
+    "id": "AUD-008",
+    "brand": "RG Labs",
+    "model": "Audio Device 8 RG",
+    "category": "Audio",
+    "price_inr": 21800,
+    "price_usd": 225,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-8-rg"
+  },
+  {
+    "id": "AUD-009",
+    "brand": "RG Labs",
+    "model": "Audio Device 9 RG",
+    "category": "Audio",
+    "price_inr": 24800,
+    "price_usd": 255,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-9-rg"
+  },
+  {
+    "id": "AUD-010",
+    "brand": "RG Labs",
+    "model": "Audio Device 10 RG",
+    "category": "Audio",
+    "price_inr": 27800,
+    "price_usd": 285,
+    "image_url": "https://i.ibb.co/s9gZdk6f/managing-smart-speakers-concept-23-2150170086.jp",
+    "specs": {
+      "type": "In-ear",
+      "battery_life": "30 hrs",
+      "anc": "No",
+      "bluetooth_ver": "5.1"
+    },
+    "buy_url": "https://example.com/buy/audio-device-10-rg"
+  },
+  {
+    "id": "CON-001",
+    "brand": "RG Labs",
+    "model": "Game Console 1 RG",
+    "category": "Console",
+    "price_inr": 9000,
+    "price_usd": 109,
+    "image_url": "https://i.ibb.co/B5gtnztf/316841-0-3-PBo-I2-KDZ.",
+    "specs": {
+      "storage": "512GB",
+      "resolution_support": "4K",
+      "fps": "60",
+      "controller_type": "Wireless"
+    },
+    "buy_url": "https://example.com/buy/game-console-1-rg"
+  },
+  {
+    "id": "CON-002",
+    "brand": "RG Labs",
+    "model": "Game Console 2 RG",
+    "category": "Console",
+    "price_inr": 24000,
+    "price_usd": 259,
+    "image_url": "https://i.ibb.co/B5gtnztf/316841-0-3-PBo-I2-KDZ.",
+    "specs": {
+      "storage": "512GB",
+      "resolution_support": "4K",
+      "fps": "60",
+      "controller_type": "Wireless"
+    },
+    "buy_url": "https://example.com/buy/game-console-2-rg"
+  },
+  {
+    "id": "CON-003",
+    "brand": "RG Labs",
+    "model": "Game Console 3 RG",
+    "category": "Console",
+    "price_inr": 39000,
+    "price_usd": 409,
+    "image_url": "https://i.ibb.co/B5gtnztf/316841-0-3-PBo-I2-KDZ.",
+    "specs": {
+      "storage": "512GB",
+      "resolution_support": "4K",
+      "fps": "60",
+      "controller_type": "Wireless"
+    },
+    "buy_url": "https://example.com/buy/game-console-3-rg"
+  },
+  {
+    "id": "CON-004",
+    "brand": "RG Labs",
+    "model": "Game Console 4 RG",
+    "category": "Console",
+    "price_inr": 54000,
+    "price_usd": 559,
+    "image_url": "https://i.ibb.co/B5gtnztf/316841-0-3-PBo-I2-KDZ.",
+    "specs": {
+      "storage": "512GB",
+      "resolution_support": "4K",
+      "fps": "60",
+      "controller_type": "Wireless"
+    },
+    "buy_url": "https://example.com/buy/game-console-4-rg"
+  },
+  {
+    "id": "CON-005",
+    "brand": "RG Labs",
+    "model": "Game Console 5 RG",
+    "category": "Console",
+    "price_inr": 69000,
+    "price_usd": 709,
+    "image_url": "https://i.ibb.co/B5gtnztf/316841-0-3-PBo-I2-KDZ.",
+    "specs": {
+      "storage": "512GB",
+      "resolution_support": "4K",
+      "fps": "60",
+      "controller_type": "Wireless"
+    },
+    "buy_url": "https://example.com/buy/game-console-5-rg"
+  }
+]
